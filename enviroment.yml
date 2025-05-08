@@ -1,0 +1,11 @@
+name: DataScienceBase
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+prefix: /home/diegogil/anaconda3/envs/DataScienceBase
